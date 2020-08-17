@@ -7,3 +7,9 @@ This repository can be used to create summary statisitcs for projects on [Teamwo
 	ie, bugs, new, meetings, etc
  - reflect on what went well, what not went well
  - highlight improvements
+
+
+## Running instructions
+
+> docker build -t teamworkpm-app .
+> docker run teamworkpm-app
