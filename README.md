@@ -23,4 +23,4 @@ This information can then be used to help:
 
 > docker build -t teamworkpm-app .
 
-> docker run teamworkpm-app
+> docker run -it teamworkpm-app
